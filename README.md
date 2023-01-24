@@ -1,2 +1,0 @@
-# FriendsConnect
-Learning web development
